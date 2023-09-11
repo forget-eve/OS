@@ -94,7 +94,7 @@ Devices
 - 电脑系统
 
 <p align="center">
-  <img scr="./img/电脑系统.png" alt="电脑系统">
+  <img src="./img/电脑系统.png" alt="电脑系统">
   <p align="center">
    <span> 电脑系统</span>
   </p>
@@ -147,7 +147,7 @@ Devices
 ###### 虚拟化的原则
 
 <p align="center">
-  <img scr="./img/虚拟化的原则.png" alt="虚拟化的原则">
+  <img src="./img/虚拟化的原则.png" alt="虚拟化的原则">
   <p align="center">
    <span> 虚拟化的原则</span>
   </p>
@@ -180,7 +180,7 @@ Devices
 ### 增加软件复杂性
 
 <p align="center">
-  <img scr="./img/增加软件复杂性.png" alt="增加软件复杂性">
+  <img src="./img/增加软件复杂性.png" alt="增加软件复杂性">
   <p align="center">
    <span> 增加软件复杂性</span>
   </p>
@@ -231,7 +231,7 @@ Devices
 - [ ] 不良示例：MS-DOS，原始的UNIX
 
 <p align="center">
-  <img scr="./img/单核结构.jpg" alt="单核结构">
+  <img src="./img/单核结构.jpg" alt="单核结构">
   <p align="center">
    <span> 单核结构</span>
   </p>
@@ -251,7 +251,7 @@ Devices
 - [x] 各层可以独立调试和替换，而不会影响上下的其他层。
 
 <p align="center">
-  <img scr="./img/分层结构.png" alt="分层结构">
+  <img src="./img/分层结构.png" alt="分层结构">
   <p align="center">
    <span> 分层结构</span>
   </p>
@@ -260,7 +260,7 @@ Devices
 - [x] 操作系统设计层次结构的理论模型
 
 <p align="center">
-  <img scr="./img/分层结构设计.png" alt="分层结构理论模型">
+  <img src="./img/分层结构设计.png" alt="分层结构理论模型">
   <p align="center">
    <span> 分层结构理论模型</span>
   </p>
@@ -274,7 +274,7 @@ Devices
   > 但可能会存在循环依赖（“循环”）的冲突。
 
 <p align="center">
-  <img scr="./img/在有向无环图（DAG）的基础上出现的循环依赖.png" alt="在有向无环图（DAG）的基础上出现的循环依赖" width-"230" height="140">
+  <img src="./img/在有向无环图（DAG）的基础上出现的循环依赖.png" alt="在有向无环图（DAG）的基础上出现的循环依赖" width-"230" height="140">
   <p align="center">
    <span> 在有向无环图（DAG）的基础上出现的循环依赖</span>
   </p>
@@ -298,7 +298,7 @@ Devices
   > - 安全服务等
 
 <p align="center">
-  <img scr="./img/微内核结构.jpg" alt="微内核结构">
+  <img src="./img/微内核结构.jpg" alt="微内核结构">
   <p align="center">
    <span> 微内核结构</span>
   </p>
